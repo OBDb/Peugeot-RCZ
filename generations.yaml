@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Peugeot_RCZ"
+
+generations:
+  - name: "First Generation"
+    start_year: 2010
+    end_year: 2015
+    description: "A coupe on the first 308's platform, with 1.6 THP gasoline and 2.0 HDi diesel engines."
